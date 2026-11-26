@@ -18,5 +18,5 @@ Features
 Tech Stack
 
 • Frontend: HTML5, CSS3, JavaScript
-• Styling / UI: (Add your framework here, e.g., Bootstrap, Tailwind CSS)
+• Styling / UI: (e.g., Bootstrap, Tailwind CSS)
 • Planned Backend: PHP & MySQL
